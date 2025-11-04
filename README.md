@@ -122,9 +122,6 @@ By following this project series, you'll gain hands-on experience with:
 
 ---
 
-## 📝 License
-
-[Specify your license here]
 
 ## 👤 Author
 
